@@ -44,7 +44,8 @@ i{
   border-radius: 50px;
 }
 .input-field{
-  padding-left: 25px !important;
+  padding: 0 15px 0 15px ;
+  
 
 }
 
